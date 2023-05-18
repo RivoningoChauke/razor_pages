@@ -8,6 +8,9 @@ namespace TotorialsEU.Pages
     {
         private readonly MyDbContext _context;
 
+
+        public List<Person> People { get; set; } = new List<Person>();
+
         [BindProperty]
 
         public Person NewPerson { get; set; }
@@ -18,6 +21,7 @@ namespace TotorialsEU.Pages
         }
         public void OnGet()
         {
+            People = _context.People.ToList();
         }
 
         public IActionResult OnPost()
