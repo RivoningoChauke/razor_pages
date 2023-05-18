@@ -29,3 +29,7 @@ C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\obj\Debug\net7.0\refint\Tot
 C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\obj\Debug\net7.0\TotorialsEU.pdb
 C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\obj\Debug\net7.0\TotorialsEU.genruntimeconfig.cache
 C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\obj\Debug\net7.0\ref\TotorialsEU.dll
+C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Documents\Mine\razor_pages\TotorialsEU\obj\Debug\net7.0\TotorialsEU.csproj.CopyComplete
